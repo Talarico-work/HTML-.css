@@ -1,0 +1,17 @@
+* {margin:0;padding:0;box-sizing:border-box}  /* Formattazione di default, tutti gli elementi della pagina avranno margini, padding a 0.
+                                                    border-box permette a tutti gli elementi di avere padding e margine compresi nella larghezza e altezza totali*/
+
+header {background-color:black; color:white; height:100px; margin-bottom:40px;} 
+/* Spazio per l'header*/
+
+.container {width:100%; background-color:deeppink; margin-top:8px; margin-bottom:8px; padding:10px; display:flex; justify-content:space-around;} 
+/* Classe per il banner */
+
+.card {display: flex; background-color:chocolate; width: 33.3%; height:400px; margin:8px;} 
+/* Classe per la suddivisione dello spazio in tre */
+
+.banner {display:flex; background-color:cadetblue; width:49.5%; height:400px;} 
+/* Classe per la suddivisione dello spazio in due */
+
+.multibox {display:flex; background-color:blanchedalmond; width: 20%; height:200px; margin:2px;} 
+/* Classe per la suddivisione dello spazio in 8 + 8 */
