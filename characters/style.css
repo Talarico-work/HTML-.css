@@ -1,0 +1,9 @@
+* {margin:0;padding:0;box-sizing:border-box; text-align:center;} 
+html {font-size:2em;}
+p {padding: 8px; margin:10px; color:white;}
+div {background-color:black; margin:8px;}
+.due-em {font-size: 2em; color:red;}
+.zero-em {font-size:0.5em; color:white;}
+.un-em {font-size:1em; color:darkgreen}
+.box1 {width: 40vw; height:40vw; border-radius:60px; margin-left:30px;}
+.box2 {width:20vmax;height:20vmax; float: right; position:relative; top:-70vmin; right:400px; margin-left:300px;}
