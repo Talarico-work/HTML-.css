@@ -1,0 +1,7 @@
+@font-face {src:url("font/NotoSansJP-Regular.otf"); font-family: "noto";} /*Font caricato dalla root*/
+* {margin:0;padding:0;box-sizing:border-box; text-align:center; font-size:32px;} 
+h1 {margin: 20px; font-family: "Sofia", sans-serif;
+  font-size: 70px;} /*Font caricato dal server*/
+h2 {padding:50px;margin:50px; font-family:"anton", sans-serif; font-size:40px; background-color:black; color:white;} /*Font caricato direttamente dalla root*/
+div {display: flex;}
+p {padding:10px; margin:12px; font-family:"sacramento", cursive; background-color: aquamarine;}
